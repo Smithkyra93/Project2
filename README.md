@@ -20,3 +20,4 @@ As a user, I want to see more options of GIFs and an interactive Navbar that mak
 As a user, I want to be able to copy and paste GIFs for my own personal use off of website.
 
 Wireframes:
+<img width="864" alt="Screenshot 2024-11-11 at 4 35 26 PM" src="https://github.com/user-attachments/assets/ab6d1387-be65-432c-8c81-821c49965fc8">
